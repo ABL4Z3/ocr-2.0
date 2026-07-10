@@ -1,0 +1,5 @@
+OCR_LANGUAGE = "en"
+
+USE_GPU = False
+
+USE_ANGLE_CLASSIFIER = True
